@@ -1,16 +1,38 @@
-html {
-	background-color: #616283;
-}
-
 body {
 	text-align: center;
 	font-family: sans-serif;
 	color: white;
-	padding: 0; 
-	margin: 0;
+	background-color: #616283;
+
 
 }
 
 header {
 	font-size: 50px;
 }
+
+
+a:link{
+	text-decoration: none;
+	color:white}
+    	
+a:visited{
+	color:white}
+
+a:hover{
+	color:darkcyan}
+
+ul{
+	list-style:none;}
+    
+li{
+	display:inline; padding:28px}
+
+        
+#menu{
+    padding:5px; 
+    font-size:200%;
+    color: white;
+    font-variant: small-caps;
+    border-bottom: double;
+    clear:both;}
